@@ -14,7 +14,7 @@
   ],
   "license": "MIT",
   "dependencies": {
-    "trix": ">=1.0.0",
+    "trix": "https://github.com/thanks2music/trix",
     "activestorage": ">=5.2.0"
   },
   "private": true
