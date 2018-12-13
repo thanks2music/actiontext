@@ -2,10 +2,16 @@
 # yarn lockfile v1
 
 
-"activestorage@>= 5.2.0-rc1":
-  version "5.2.0-rc1"
-  resolved "https://registry.yarnpkg.com/activestorage/-/activestorage-5.2.0-rc1.tgz#79898996eceb0f13575eff41fb109051fbfa49b0"
+activestorage@>=5.2.0:
+  version "5.2.2"
+  resolved "https://registry.yarnpkg.com/activestorage/-/activestorage-5.2.2.tgz#035c03f247467c13cd659584833502433099f8f4"
+  dependencies:
+    spark-md5 "^3.0.0"
 
-trix@^0.11.1:
-  version "0.11.1"
-  resolved "https://registry.yarnpkg.com/trix/-/trix-0.11.1.tgz#ffe54f2757c2c2385b8424fd5c5d2ab712a09acc"
+spark-md5@^3.0.0:
+  version "3.0.0"
+  resolved "https://registry.yarnpkg.com/spark-md5/-/spark-md5-3.0.0.tgz#3722227c54e2faf24b1dc6d933cc144e6f71bfef"
+
+"trix@https://github.com/thanks2music/trix":
+  version "1.0.0"
+  resolved "https://github.com/thanks2music/trix#382a5e2b8a0a1430e6ad13f562d9ebcac339d636"
