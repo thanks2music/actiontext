@@ -12,6 +12,6 @@ spark-md5@^3.0.0:
   version "3.0.0"
   resolved "https://registry.yarnpkg.com/spark-md5/-/spark-md5-3.0.0.tgz#3722227c54e2faf24b1dc6d933cc144e6f71bfef"
 
-"trix@https://github.com/thanks2music/trix/#ideographic_space":
+"trix@https://github.com/thanks2music/trix":
   version "1.0.0"
-  resolved "https://github.com/thanks2music/trix/#bdda2b83e617a85106d2652c026fc938b59a6776"
+  resolved "https://github.com/thanks2music/trix#382a5e2b8a0a1430e6ad13f562d9ebcac339d636"
